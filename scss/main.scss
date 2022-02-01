@@ -1,5 +1,6 @@
 @import 'config';
 @import 'utilities';
+@import 'item_grid';
 
 * {
   margin: 0;
@@ -297,6 +298,8 @@ img {
     }
   }
 }
+
+
 
 // Footer
 #main-footer{
