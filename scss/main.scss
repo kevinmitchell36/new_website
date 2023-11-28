@@ -219,23 +219,12 @@ img {
       grid-area: bio;
       border-left: 3px solid $main-color;
       padding: 0.8rem;
+      text-align: left;
+      font-size: 18px;
     }
 
-    .award-1 {
-      grid-area: aw1;
-    }
-    .award-2 {
-      grid-area: aw2;
-    }
-    .award-3 {
-      grid-area: aw3;
-    }
-
-    .award-1 .fas,
-    .award-2 .fas,
-    .award-3 .fas {
-      color: $main-color;
-      margin: 1rem;
+    h3 {
+      text-align: center;
     }
   }
   // About B
